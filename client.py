@@ -11,7 +11,7 @@ def response_generator(response):
         time.sleep(0.05)
 
 
-st.title("Simple chat")
+st.title("Chat with OpenAI")
 
 # Initialize session key
 if "key" not in st.session_state:
