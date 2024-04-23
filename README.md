@@ -3,6 +3,10 @@
 This is a simple conversational chatbot with memory, built using langchain, OpenAI, FastAPI, and Streamlit.
 
 ---
+
+If you'd like to explore the web app, feel free to check out its demo on my [Hugging Face Spaces](https://huggingface.co/spaces/idalz/conversational-chatbot) page.
+
+---
 ## Streamlit App
 ![Conversational Chatbot](./images/screenshot.png)
 
